@@ -1,5 +1,5 @@
-Ristorante: "Da Giovanna"
+-- D O L C E ---
 
-Menu di carne
 
-Bevande: Sprite, Coca cola, Acqua, Vino rosso
+ - Funghi trifolati + gelato alla vaniglia ( topping)
+

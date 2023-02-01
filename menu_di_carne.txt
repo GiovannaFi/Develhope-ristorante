@@ -1,9 +1,8 @@
-Ristorante: "Da Giovanna"
-
-Menu di carne
-
 Bevande: Sprite, Coca cola, Acqua, Vino rosso
 
+Primi Piatti
+
+- Cannelloni al ragù
 
 Secondi
 
@@ -11,7 +10,7 @@ Fiorentina
 
 Tagliata di Angus
 
-Primi Piatti
+Dolci
 
-- Cannelloni al ragù
+ - Funghi trifolati + gelato alla vaniglia ( topping)
 

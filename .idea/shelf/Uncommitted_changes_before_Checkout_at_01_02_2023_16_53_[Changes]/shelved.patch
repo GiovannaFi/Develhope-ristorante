@@ -1,0 +1,16 @@
+Index: menu_di_carne.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/menu_di_carne.txt b/menu_di_carne.txt
+--- a/menu_di_carne.txt	(revision 2f8ecfcd38066137f6f54f72465e470a693450ce)
++++ b/menu_di_carne.txt	(date 1675266808796)
+@@ -1,1 +1,5 @@
++-- D O L C E ---
++
++
++ - Funghi trifolati + gelato alla vaniglia ( topping)
+ 

@@ -1,1 +1,9 @@
+Ristorante: "Da Giovanna"
 
+Menu di carne
+
+Bevande: Sprite, Coca cola, Acqua, Vino rosso
+
+Primi Piatti
+
+- Cannelloni al ragù

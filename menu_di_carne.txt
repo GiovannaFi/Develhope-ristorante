@@ -1,5 +1,16 @@
--- D O L C E ---
+Bevande: Sprite, Coca cola, Acqua, Vino rosso
 
+Primi Piatti
+
+- Cannelloni al ragù
+
+Secondi
+
+Fiorentina
+
+Tagliata di Angus
+
+Dolci
 
  - Funghi trifolati + gelato alla vaniglia ( topping)
 
